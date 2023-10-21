@@ -13,3 +13,5 @@ session_data
 *.sublime-*
 
 .DS_Store
+
+venv_fhir_client/
